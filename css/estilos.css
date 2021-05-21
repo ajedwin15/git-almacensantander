@@ -67,48 +67,12 @@ body {
 .dropdown-item:hover {
     background: #586dcc;
 }
+#navbarScrollingDropdown:hover{
+	background-color: rgba(6, 6, 46, 0.2);
+}
 
 /*Buscador*/
 
-
-#ctn-icon-serarch i{
-	font-size: 18px;
-	color: #090931;
-	cursor: pointer;
-	transition: all 300ms;
-}
-
-#ctn-icon-serarch i:hover{
-	color: #586dcc;
-}
-
-#ctn-bars-search{
-	position: fixed;
-	top: 260px;
-	width: 100%;
-	background: #253681;
-	padding: 8px;
-	z-index: 9;
-}
-
-#ctn-bars-search input{
-	display: block;
-	width: 1000px;
-	margin: auto;
-	padding: 10px;	
-	font-size: 18px;
-	outline: 0;
-}
-
-#box-search{
-	position: fixed;
-	top: 340px;
-	left: 50%;
-	transform: translateX(-50%)
-	width: 1000px;
-	background: #0a0a0a;
-	z-index: 8;
-}
 
 /*slider*/
 
